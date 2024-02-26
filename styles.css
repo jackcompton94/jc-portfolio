@@ -45,7 +45,14 @@ nav a:hover {
     align-items: center;
     flex-direction: column;
     margin: 60px; 
+    margin-left: 130px;
+    margin-right: 130px;
     letter-spacing: 0.2px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 ul {
